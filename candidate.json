@@ -1,0 +1,15 @@
+{
+    "name": "teach",
+    "address": "nepal",
+    "contact": "9865456587",
+    "email": "teach@gmail.com",
+    "office_hour_start": "8:00",
+    "office_hour_end": "18:00",
+    "salary_type": "monthly",
+    "duty_time": "8:00",
+    "code": "RT2209",
+    "dob": "2004-12-18",
+    "salary_amount": "20000",
+    "joining_date": "2018-02-03",
+    "over_time": "1.5"
+}

@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "message": "Success",
+    "data": {
+        "weekly_datas": {
+            "2023-02-19": "Absent",
+            "2023-02-20": "Absent",
+            "2023-02-21": "Absent",
+            "2023-02-22": "Absent",
+            "2023-02-23": "Absent",
+            "2023-02-24": "Absent",
+            "2023-02-25": "Business Leave"
+        },
+        "start_time": null,
+        "end_time": null,
+        "break_time": null,
+        "attendance_duration": null,
+        "earning": null,
+        "overtime_earning": null,
+        "totalearning": null
+    }
+}

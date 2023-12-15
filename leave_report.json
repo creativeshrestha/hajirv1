@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "message": "Successfully Fetched",
+    "data": {
+        "leavedetail": {
+            "id": 35,
+            "candidate_id": 130,
+            "remarks": "fjdshkfjdshkjfhdskjfdslfds",
+            "status": "Approved",
+            "pay_status": "Paid",
+            "leave_type": {
+                "id": 1,
+                "title": "Sick",
+                "status": "Active",
+                "desc": null
+            },
+            "start_date": "2023-02-08T18:15:00.000000Z",
+            "end_date": "2023-02-09T18:15:00.000000Z",
+            "type": "Full",
+            "file": null
+        }
+    }
+}

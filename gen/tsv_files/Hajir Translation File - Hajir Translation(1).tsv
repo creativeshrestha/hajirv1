@@ -1,0 +1,163 @@
+Key	English	Nepali	Remarks
+home	Home	घर	
+apply_leave	Apply Leave.	छुट्टी लागू गर्नुहोस्।	
+my_account	My Account	मेरो खाता	
+change_language	Change Language	भाषा परिवर्तन गर्नुहोस्	
+profile	Profile	पाश्र्वचित्र	
+reports	Reports	रिपोर्टहरू	
+settings	Settings	बतंग	
+logout	Logout	बाहिर निस्कनु	
+accept	Accept	ग्रहण गर्नु	
+removed	You have been removed from the	तपाईं बाट हटाइएको छ	
+decline	Decline	हास	
+today	Today	आज	
+income_history	Income History	आय इतिहास	
+weekly	Weekly	साप्ताहिक	
+monthly	Monthly	मासिक	
+annual	Annual	वार्षिक	
+otp_verification	Otp Verification	ओटीपी प्रमाणिकरण	
+enter_oto_sent_to	Enter the OTP sent to	ओटीपीमा पठाउनुहोस्	
+verify	Verify	ठीक छ की छैन हेर्नु	
+close	Close	घनिष्ट	
+get_otp	Get OTP	OTP प्राप्त गर्नुहोस्	
+mobile_number	Mobile Number	मोबाइल नम्बर	
+will_send_otp	We will send you one time password on this mobile number	हामी तपाईंलाई यस मोबाइल नम्बरमा एक पटक पासवर्ड पठाउनेछौं	
+read_and_agree	I have read and agree	मैले पढेको छु र सहमत छु	
+terms_and_services	Terms & Services	नियम र सेवाहरू	
+login_with_candidate	Candidate can login and logout on official hours and employer can notice staffs activities and generate reports.	उम्मेदवार लगईन र लगआउट गर्न सक्दछ आधिकारिक घण्टा र नियोक्ताले याद गर्न सक्दछ कर्मचारी गतिविधिहरू र रिपोर्टहरू उत्पन्न गर्नुहोस्।	
+manage_time_and_track	Hajir will help you to manage your  staff’s attendance, payrole and personal report of your company.	हजिरले तपाईंलाई तपाईंको प्रबन्ध गर्न मद्दत गर्दछ स्टाफको उपस्थिति, पेरोबिल र व्यक्तिगत तपाईंको कम्पनीको रिपोर्ट।	
+live_attendance	Salary calculation made easy, track your staffs overtime, leave day, late day and live daily wages interactive reports.	तलब गणनाले सजिलो बनायो, तपाईंको ट्र्याक गर्नुहोस् कर्मचारीहरू ओभरटाइम, दिन, ढिलो दिन छोड्नुहोस् र प्रत्यक्ष दैनिक ज्याला अन्तर्क्रियात्मक रिपोर्टहरू।	
+did_not_receive_otp	Didnt not receive OTP?	ओटीपी प्राप्त गरेन?	
+resent_otp_in	 OTP Resend in 12:02	 OTP 12:02 मा रिसेट गर्नुहोस्	
+not_invited_to_company	You’ve not invited to company yet.	तिमीलाई आमन्त्रित गर्नुहुन्न कम्पनी अझै।	
+is_invited_to_join_company	is invited to join a company	एक कम्पनीमा सामेल हुन आमन्त्रित गरिएको छ	
+apply_for_leave	Apply For  leave	छोड्नुको लागि आवेदन दिनुहोस्	
+not_created_company	You’ve not created  company yet.	तपाईंले सृष्टि गर्नुभएको छैन कम्पनी अझै।	
+Designation	Create a company	एक कम्पनी सिर्जना गर्नुहोस्	
+click_below_to_login	Click below to continue login as	लगइन जारी राख्न तल क्लिक गर्नुहोस्	
+welcome	Welcome to	स्वागत छ	
+to	to	तिर	
+candidate	Candidate	उम्मेदवार	
+employer	Employer	काम दिनु ब्यक्ति	
+or	OR	अथवा	
+login_candidate_item1	Login with candidate will help  you to track your salary and  workflow.	उम्मेदवारसँग लगईन मद्दत गर्दछ तपाईं आफ्नो तलब ट्र्याक गर्न र कार्यप्रवाह।	
+login_candidate_item2	Help you to manage your time and track yourself to focus on everyday task.	तपाइँलाई तपाइँको समय प्रबन्ध गर्न मद्दत गर्नुहोस् र आफैलाई ध्यान केन्द्रित गर्न ट्र्याक गर्नुहोस् दैनिक कार्यमा।	
+login_candidate_item3	Live attendance, secondly  salary calculation, quick reports,  allowance & overtime reports.	प्रत्यक्ष उपस्थिति, दोस्रो तलब गणना, द्रुत रिपोर्टहरू, भत्ता र ओभरटाइम रिपोर्टहरू।	
+country_code	977	97	
+choose_language	Choose your language	तपाईंको भाषा छनौट गर्नुहोस्	
+start_break	START BREAK	ब्रेक सुरु गर	
+company	company	दल	
+update	Update	अद्यावधिक गर्नुहोस्	
+dob	Date of birth	जन्म मिति	
+leave_type	Leave Type	छुट्टी बिदा	
+duration	Duration	अवधि	
+upload_image	Upload Image.	छवि अपलोड गर्नुहोस्।	
+remarks	Remarks.	टिप्पणीहरू।	
+submit	Submit.	स्वीकार।	
+successful_submit_report	Successfully sent your request.	सफलतापूर्वक तपाइँको अनुरोध पठाउनुहोस्।	
+will_get_back_to_you	We’ve received your request.We will get back to you.	हामीले तपाईंको अनुरोध प्राप्त गरेका छौं। हामी तपाईंतर्फ फर्कनेछौं।	
+close	Close.	बन्द।	
+lastname	Last name	थर	
+firstname	First name	पहिलो नाम	
+description	Description	वर्णन	
+balance	Balance	शेष	
+salary	Salary	तलब	
+overtime	Overtime	समयको क्रमसँगै	
+bonus	Bonus	भत्ता	
+allowance	Allowance	छुट	
+tax	Tax	कर	
+penalty	Penalty	जरिवाना	
+leave_information	Leave Information	जानकारी छोड्नुहोस्	
+sick_leave	Sick Leave	बिरामी बिदा	
+extra_leave	Extra Leave	अतिरिक्त छोड्नु	
+casual_leave	Casual Leave	अनौपचारिक बिदा	
+attendance	Attendance	उपस्थित	
+employee	Employee	कर्मचारी	
+settings	Settings	बतंग	
+employee_list	Employee List	कर्मचारी सूची	
+companies_list	Company List	कम्पनी सूची	
+approver	Approver	किक्षक	
+todays_earning	Today's Earning	आजको कमाई	
+create_candidate	Create a candidate	उम्मेदवार बनाउनुहोस्	
+designation	Designation	पद विवरण	
+staff_code	Staff Code	कर्मचारी कोड	
+auto_generated	Auto generated	स्वत: उत्पन्न	
+salary_calculation_day	Salary calculation day	तलब गणना दिन	
+business_leave_days	Business Leave Days	व्यापार बिदा दिन	
+office_hours	Office hours	कार्यालयको समय	
+access_networks	Access networks	नेटवर्कहरू पहुँच गर्नुहोस्	
+remaining_leave	Remaining Leave.	बाँकी बिदा।	
+total	Total	कुल	
+amount	Amount	धनराशी	
+stop_break	Stop Break	ब्रेक रोक्नुहोस्	
+login	Login	लग - इन	
+income_history	Income History	आय इतिहास	
+change	Change	परिवर्तन	
+full_name	Full Name	पुरा नाम	
+all	All	सबै	
+active	Active	क्रियाशील	
+inactive	Inactive	निष्क्रिय	
+present	Present Absent	अनुपस्थित अवस्थित	
+leave	Leave	छोड	
+total_earning	Total Earning	कुल कमाई	
+total_hours	TOTAL HOURS	कुल घण्टा	
+send_notification	Send Notification	सूचना पठाउनुहोस्	
+message	Message	सन्देश	
+individual_reports	Individual Reports	व्यक्तिगत रिपोर्टहरू	
+overall_reports	Overall Reports	समग्र रिपोर्टहरू	
+attendee	Attendee	सेपमा चढायौ	
+absent	Absent	अनुपस्थित	
+late	Late	अबेर	
+early_punch_out	Early punch out	प्रारम्भिक पंच बाहिर	
+remove	Remove	हटाउनु	
+attendance_records	Attendance Records	उपस्थिति रेकर्ड	
+export	Export	निर्यात गर्नु	
+daily	Daily	दैनिक	
+current_number	Current Number	वर्तमान संख्या	
+changed_number	Changed Number	संख्या परिवर्तन भयो	
+confirm_changed_number	Confirm Changed Number	निश्चित संख्या निश्चित गर्नुहोस्	
+add	Add	थप्नु	
+inbox	Inbox	इनबक्स	
+monthly_reports	Monthly reports	मासिक रिपोर्टहरू	
+add_approver	Add Approver	एप्लेभर थप्नुहोस्	
+my_plans	My Plans	मेरो योजना	
+enroll_attendee	Enroll Attendee	भर्नामा भर्ना गर्नुहोस्	
+missing_attendance	Missing Attendance	हराएको	
+accept	Accept	ग्रहण गर्नु	
+clock_in	Clock In	घडी मा	
+clock_out	Clock Out	घडी बाहिर	
+pending	Pending	फैसला बांकी राखेको	
+name_or_number	Name or number	नाम वा नम्बर	
+check_in_date	Check in date	मितिमा जाँच गर्नुहोस्	
+check_in_time	Check in time	समयमा जाँच गर्नुहोस्	
+check_out_time	Check out time	समय जाँच गर्नुहोस्	
+overtime	Overtime	समयको क्रमसँगै	
+login_employer_item1	Login with employer will help you to track your all the staff activities from your smart devices.	रोजगारदातासँग लगईनले तपाईंलाई मद्दत गर्दछ तपाईंको सबै स्टाफ गतिविधिहरू तपाईंको बाट ट्र्याक गर्नुहोस् स्मार्ट उपकरणहरू।	
+login_employer_item2	You can manage your employee  attendance, salary, overtime and payroll  anywhere in the world	तपाईं आफ्नो कर्मचारी व्यवस्थापन गर्न सक्नुहुन्छ उपस्थिति, तलब, ओभरटाइम र पेरोल जसमा विश्वको कतै	
+login_employer_item3	Live attendance, quick reports,  allowance & overtime expense calculation and export reports in csv/excel/pdf.	जीवित उपस्थिति, द्रुत रिपोर्टहरू, भत्ता र ओभरटाइम खर्च गणना र CSV / एक्सेल / PDF मा रिपोर्टहरू निर्यात गर्नुहोस्।	
+candidate_not_created	You’ve not created candidate.	तपाईंले उम्मेदवार बनाउनुभएको छैन।	
+breaks	Break	विश्राम	
+annual_leave_summary	Annual Leave Summary	वार्षिक बिदा सारांश	
+change_number	Change Number	नम्बर परिवर्तन गर्नुहोस	
+cancel	Cancel	रद्द गर्नु	
+paid_leave	Paid Leave	भुक्तानी बिदा	
+type	Type	वर्गीकरण गर्नु	
+half_day	Half Day	आधा दिन	
+attached	Attached	जोडिएको	
+cancel	Cancel	रद्द गर्नु	
+back_to_home	Back to home	घर फिर्ता	
+details	Details	विवरण	
+send_invitation	Send Invitation	आमन्त्रित पठाउनुहोस्	
+week	Week	हप्ता	
+logout_dialog	Are you sure you want to log out?	के तपाईं लग आउट गर्न चाहनुहुन्छ?	
+payment_options	Payment Options	भुक्तानी विकल्प	
+pay_now	Pay Now	अबो तिरे	
+successful_payment	Successful payment!	सफल भुक्तानी!	
+thank_for_purchanse	Thank you for your purchase	तपाईको खरीदको लागि धन्यवाद	
+done	Done!	पूरा भयो!	
+upgrade_to_premium	Upgrade to premium	प्रीमियममा अपग्रेड गर्नुहोस्	
+select_approver	Select Approver	अनुप्रयोग चयन गर्नुहोस्	
+select_company	Select Company	कम्पनी चयन गर्नुहोस्	
+thank_you	Thank You.	धन्यवाद।	
+today_you_ve_earned	Today you’ve earned	आज तपाईंले प्रदान गर्नुभयो	
+have_a_good_time	Have a good time.	राम्रो समय छ।	
